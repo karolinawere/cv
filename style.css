@@ -1,0 +1,186 @@
+body {
+    background: #f5f7fa;
+    font-family: "Montserrat", sans-serif;
+}
+
+.prawastrona {
+    margin-left: auto;
+    margin-right: auto;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1280px;
+    justify-content: center;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.main-description {
+    margin-bottom: 40px;
+}
+
+.job-title {
+    font-weight: 700;
+    line-height: 17px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.candidate-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.projects {
+    margin-bottom: 51px;
+}
+
+.list-primary {
+    font-size: 15px;
+    line-height: 24px;
+    color: #000000;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.list-primary-item {
+    font-size: 15px;
+    line-height: 24px;
+    color: #595959;
+    text-decoration: none;
+}
+
+.header-primary {
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 12px;
+}
+.work-experience {
+    width: auto;
+    margin-bottom: 16px;
+}
+
+.job-name {
+    font-size: 16px;
+    line-height: 20px;
+}
+.highlight {
+    color: #fb6d3a;
+}
+
+.job-date {
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+
+.curiosity {
+    color: white;
+    font-size: 15px;
+}
+
+.job-list {
+    font-size: 15px;
+    line-height: 24px;
+    color: #595959;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.manager-new {
+    margin-bottom: 20px;
+}
+
+.manager.llc {
+    margin-bottom: 43px;
+}
+h3 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+aside {
+    width: 35%;
+    background: #1e2939;
+}
+
+.placing {
+    margin-left: 5%;
+}
+.cv-photo {
+    margin-top: 25px;
+}
+.header-secondary {
+    color: white;
+}
+.contact-links {
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.links {
+    color: white;
+    text-decoration-line: none;
+}
+
+.clickfont {
+    color: white;
+    font-size: 15px;
+}
+
+.bold {
+    font-weight: 700;
+    color: #fb6d3a;
+}
+
+.list-secondary {
+    color: #fb6d3a;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.list-secondary-item {
+    color: white;
+}
+
+.contact-block {
+    margin-top: 52px;
+}
+
+.Fa-block {
+    margin-top: 47px;
+}
+
+.soft-skills-block {
+    margin-top: 44px;
+}
+.languages {
+    margin-top: 47px;
+}
+main {
+    padding-left: 88px;
+    padding-top: 102px;
+    padding-bottom: 102px;
+    padding-right: 88px;
+    width: 65%;
+}
