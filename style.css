@@ -10,7 +10,7 @@ body {
 .wrapper {
     display: flex;
     flex-direction: row-reverse;
-    width: 1280px;
+    width: 95vw;
     justify-content: center;
     margin: 0 auto;
     background: #ffffff;
@@ -128,6 +128,7 @@ aside {
 }
 .cv-photo {
     margin-top: 25px;
+    width: 100%;
 }
 .header-secondary {
     color: white;
@@ -137,6 +138,7 @@ aside {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
+    word-wrap: anywhere;
 }
 
 .links {
@@ -157,9 +159,7 @@ aside {
     color: #fb6d3a;
     font-size: 14px;
     line-height: 24px;
-    margin-left: 0px;
     padding-left: 0px;
-    list-style-position: inside;
 }
 
 .list-secondary-item {
