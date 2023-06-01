@@ -23,7 +23,7 @@ margin-left: 5%;
 }
 
 .main-description {
-    margin-bottom: 40px;
+    margin-bottom: 50px;
 }
 
 .job-title {
@@ -46,7 +46,7 @@ h1 {
 }
 
 .projects {
-    margin-bottom: 51px;
+    margin-bottom: 40px;
 }
 
 .list-primary {
@@ -69,7 +69,7 @@ h1 {
 }
 .work-experience {
     width: auto;
-    margin-bottom: 16px;
+    margin-bottom: 40px;
 }
 
 .job-name {
@@ -111,7 +111,7 @@ h4 {
 }
 
 aside {
-    width: 35%;
+    width: 40%;
     background: #1e2939;
 }
 
@@ -163,5 +163,5 @@ main {
     padding-top: 102px;
     padding-bottom: 102px;
     padding-right: 88px;
-    width: 65%;
+    width: 60%;
 }
