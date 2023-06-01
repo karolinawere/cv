@@ -98,13 +98,6 @@ h1 {
     padding-left: 0px;
 }
 
-.manager-new {
-    margin-bottom: 20px;
-}
-
-.manager.llc {
-    margin-bottom: 43px;
-}
 h3 {
     font-weight: 700;
     font-size: 16px;
@@ -165,20 +158,6 @@ aside {
     color: white;
 }
 
-.contact-block {
-    margin-top: 52px;
-}
-
-.Fa-block {
-    margin-top: 47px;
-}
-
-.soft-skills-block {
-    margin-top: 44px;
-}
-.languages {
-    margin-top: 47px;
-}
 main {
     padding-left: 88px;
     padding-top: 102px;
